@@ -1,0 +1,364 @@
+# depslib dependency file v1.0
+1449079961 source:c:\users\w8\desktop\tubes2048\highscore.c
+	"highscore.h"
+
+1449079948 c:\users\w8\desktop\tubes2048\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449079392 c:\users\w8\desktop\tubes2048\boolean.h
+
+1449081718 source:c:\users\w8\desktop\tubes2048\main.c
+	"2048h.h"
+
+1449088077 source:c:\users\w8\desktop\tubes2048\2048c.c
+	"2048h.h"
+
+1449087852 c:\users\w8\desktop\tubes2048\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449035220 source:c:\users\hp\desktop\tubes2048\highscore.c
+	"highscore.h"
+
+1449035222 c:\users\hp\desktop\tubes2048\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449035218 c:\users\hp\desktop\tubes2048\boolean.h
+
+1449035238 source:c:\users\hp\desktop\tubes2048\main.c
+	"2048h.h"
+
+1449090508 c:\users\hp\desktop\tubes2048\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449093493 source:c:\users\hp\desktop\tubes2048\2048c.c
+	"2048h.h"
+
+1449039620 source:c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\highscore.c
+	"highscore.h"
+
+1449039622 c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449039618 c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\boolean.h
+
+1449039626 source:c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\main.c
+	"2048h.h"
+
+1449139800 c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449140158 source:c:\users\w8\downloads\tubes2048-2015-12-02\tubes2048\2048c.c
+	"2048h.h"
+
+1449144154 source:c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\highscore.c
+	"highscore.h"
+
+1449144154 c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449144154 c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\boolean.h
+
+1449239338 source:c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\main.c
+	"2048h.h"
+
+1449239055 c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449239175 source:c:\users\sony\desktop\tubes2048newest-2015-12-03\tubes2048newest\2048c.c
+	"2048h.h"
+
+1449269506 source:c:\users\hp\desktop\tubes2048newest\2048c.c
+	"2048h.h"
+
+1449186052 c:\users\hp\desktop\tubes2048newest\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449186054 c:\users\hp\desktop\tubes2048newest\boolean.h
+
+1449186058 c:\users\hp\desktop\tubes2048newest\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449186056 source:c:\users\hp\desktop\tubes2048newest\highscore.c
+	"highscore.h"
+
+1449268222 source:c:\users\hp\desktop\tubes2048newest\main.c
+	"2048h.h"
+
+1449395554 source:d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\highscore.c
+	"highscore.h"
+
+1449395554 d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449395554 d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\boolean.h
+
+1449397704 source:d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\main.c
+	"2048h.h"
+
+1449395952 d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449397504 source:d:\nurlaili rizki hasanah\documents\sistem dan teknologi informasi 2014\tubes2048newest2-2015-12-05\tubes2048newest2\2048c.c
+	"2048h.h"
+
+1449411706 source:c:\users\sony\desktop\tubes2048newestwithloadgame\2048c.c
+	"2048h.h"
+
+1449395952 c:\users\sony\desktop\tubes2048newestwithloadgame\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"highscore.h"
+
+1449395554 c:\users\sony\desktop\tubes2048newestwithloadgame\boolean.h
+
+1449412069 c:\users\sony\desktop\tubes2048newestwithloadgame\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449405612 source:c:\users\sony\desktop\tubes2048newestwithloadgame\highscore.c
+	"highscore.h"
+
+1449409214 source:c:\users\sony\desktop\tubes2048newestwithloadgame\main.c
+	"2048h.h"
+
+1449869068 source:c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\highscore.c
+	"highscore.h"
+
+1449795548 c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449795540 c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\boolean.h
+
+1449869458 source:c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\main.c
+	"2048h.h"
+
+1449855972 c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449867905 source:c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\2048c.c
+	"2048h.h"
+
+1449867720 source:c:\users\hp\desktop\tubes2048newestwithloadgame\tubes2048newestwithloadgame\header.c
+	"2048h.h"
+
+1449875740 source:c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\2048c.c
+	"2048h.h"
+
+1449872569 c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449817422 c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449817414 c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\boolean.h
+
+1449817420 source:c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\highscore.c
+	"highscore.h"
+
+1449817426 source:c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\main.c
+	"2048h.h"
+
+1449874878 source:c:\users\hp\desktop\tubes2048newestwithloadgame-2015-12-11 (1)\tubes2048newestwithloadgame\header.c
+	"2048h.h"
+
+1449875740 source:c:\users\hp\desktop\tubes2048final\2048c.c
+	"2048h.h"
+
+1449872569 c:\users\hp\desktop\tubes2048final\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449817422 c:\users\hp\desktop\tubes2048final\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449817414 c:\users\hp\desktop\tubes2048final\boolean.h
+
+1449874878 source:c:\users\hp\desktop\tubes2048final\header.c
+	"2048h.h"
+
+1449817420 source:c:\users\hp\desktop\tubes2048final\highscore.c
+	"highscore.h"
+
+1449875833 source:c:\users\hp\desktop\tubes2048final\main.c
+	"2048h.h"
+
+1449901299 source:c:\users\sony\desktop\tubes2048final\tubes2048final\2048c.c
+	"2048h.h"
+
+1449898574 c:\users\sony\desktop\tubes2048final\tubes2048final\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449901668 c:\users\sony\desktop\tubes2048final\tubes2048final\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449890035 c:\users\sony\desktop\tubes2048final\tubes2048final\boolean.h
+
+1449897829 source:c:\users\sony\desktop\tubes2048final\tubes2048final\header.c
+	"asciiart.h"
+
+1449898363 source:c:\users\sony\desktop\tubes2048final\tubes2048final\highscore.c
+	"highscore.h"
+
+1449890032 source:c:\users\sony\desktop\tubes2048final\tubes2048final\main.c
+	"2048h.h"
+
+1449897803 c:\users\sony\desktop\tubes2048final\tubes2048final\asciiart.h
+	"2048h.h"
+
+1449897829 source:c:\users\sony\desktop\tubes2048final\tubes2048final\asciiart.c
+	"asciiart.h"
+
+1449848108 source:c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\2048c.c
+	"2048h.h"
+
+1449848110 c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449848122 c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449848116 c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\boolean.h
+
+1449848120 source:c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\highscore.c
+	"highscore.h"
+
+1449848124 source:c:\users\w8\downloads\tubes2048final_komen_new-2015-12-13\tubes2048final komen new\main.c
+	"2048h.h"
+
+1449848108 source:d:\semester 3\tubes2048final komen new\2048c.c
+	"2048h.h"
+
+1449848110 d:\semester 3\tubes2048final komen new\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1449848122 d:\semester 3\tubes2048final komen new\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449848116 d:\semester 3\tubes2048final komen new\boolean.h
+
+1449848120 source:d:\semester 3\tubes2048final komen new\highscore.c
+	"highscore.h"
+
+1449848120 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\highscore.c
+	"highscore.h"
+
+1449848122 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1449848116 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\boolean.h
+
+1450068921 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\main.c
+	"2048h.h"
+
+1449848110 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\2048h.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore.h"
+
+1450072107 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\2048_13.c
+	"2048_13.h"
+
+1450072199 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\2048_13.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"highscore_13.h"
+
+1450072252 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\highscore_13.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean_13.h"
+
+1450072657 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\boolean_13.h
+
+1450072152 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\highscore_13.c
+	"highscore_13.h"
+
+1450072231 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\main_13.c
+	"2048_13.h"
+
+1450072342 source:d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\asciiart_13.c
+	"asciiart_13.h"
+
+1450072625 d:\semester 3\if2111-algoritma dan struktur data\tugas besar\if2111_tb_13\src\asciiart_13.h
+	"2048_13.h"
+
